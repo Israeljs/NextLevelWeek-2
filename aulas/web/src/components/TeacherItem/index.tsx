@@ -1,3 +1,4 @@
+//eslint-disable-next-line
 import React, { ReactComponentElement, FunctionComponent } from 'react';
 
 import whatsappIcon from '../../assets/images/icons/whatsapp.svg';
